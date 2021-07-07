@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Drake
 - 👀 I’m interested in computer programming, video games, photography, cooking to list a few.
-- 🌱 I’m currently learning how to program.
+- 🌱 I’m currently learning 日本語 and how to program.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
